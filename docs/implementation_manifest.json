@@ -1,0 +1,15 @@
+{
+  "edition": "reranking-gateway",
+  "files": [
+    "projects/governed_enterprise_rag/editions/reranking-gateway/src/reranking_gateway/__init__.py",
+    "projects/governed_enterprise_rag/editions/reranking-gateway/src/reranking_gateway/pipeline.py",
+    "projects/governed_enterprise_rag/editions/reranking-gateway/src/reranking_gateway/config.py",
+    "projects/governed_enterprise_rag/editions/reranking-gateway/tests/test_reranking_gateway.py",
+    "projects/governed_enterprise_rag/editions/reranking-gateway/README.md",
+    "projects/governed_enterprise_rag/editions/reranking-gateway/examples/sample_request.json"
+  ],
+  "module": "reranking_gateway",
+  "planned_modules": [],
+  "planned_tests": [],
+  "project": "governed_enterprise_rag"
+}

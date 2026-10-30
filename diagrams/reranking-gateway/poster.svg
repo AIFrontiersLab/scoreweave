@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="100%" height="100%" fill="#FAF7F0"/>
+<text x="56" y="64" fill="#1A4BFF" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700">AI FRONTIERS FORUM</text>
+<text x="56" y="120" fill="#0B1F3A" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="700">Reranking Gateway</text>
+<text x="56" y="168" fill="#5A6B7D" font-size="22" font-family="Arial, Helvetica, sans-serif">One concept. Three AI perspectives. One tested architecture.</text>
+<rect x="48.0" y="280.0" width="312.0" height="220.0" rx="16" fill="#FFFFFF" stroke="#1A4BFF" stroke-width="3"/>
+<text x="68.0" y="320.0" fill="#1A4BFF" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">User Request</text>
+<text x="68.0" y="358.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">Initial user query or request input.</text>
+<rect x="384.0" y="280.0" width="312.0" height="220.0" rx="16" fill="#FFFFFF" stroke="#1A4BFF" stroke-width="3"/>
+<text x="404.0" y="320.0" fill="#1A4BFF" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">Initial Ranking</text>
+<text x="404.0" y="358.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">First pass ranking using basic</text>
+<text x="404.0" y="384.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">algorithms.</text>
+<rect x="720.0" y="280.0" width="312.0" height="220.0" rx="16" fill="#FFFFFF" stroke="#1A4BFF" stroke-width="3"/>
+<text x="740.0" y="320.0" fill="#1A4BFF" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">AI Perspective 1</text>
+<text x="740.0" y="358.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">Reranking using AI model 1 with</text>
+<text x="740.0" y="384.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">specific criteria.</text>
+<rect x="48.0" y="524.0" width="312.0" height="220.0" rx="16" fill="#FFFFFF" stroke="#1A4BFF" stroke-width="3"/>
+<text x="68.0" y="564.0" fill="#1A4BFF" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">AI Perspective 2</text>
+<text x="68.0" y="602.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">Reranking using AI model 2 with</text>
+<text x="68.0" y="628.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">alternative criteria.</text>
+<rect x="384.0" y="524.0" width="312.0" height="220.0" rx="16" fill="#FFFFFF" stroke="#1A4BFF" stroke-width="3"/>
+<text x="404.0" y="564.0" fill="#1A4BFF" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">AI Perspective 3</text>
+<text x="404.0" y="602.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">Reranking using AI model 3 with</text>
+<text x="404.0" y="628.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">different criteria.</text>
+<rect x="720.0" y="524.0" width="312.0" height="220.0" rx="16" fill="#FFFFFF" stroke="#1A4BFF" stroke-width="3"/>
+<text x="740.0" y="564.0" fill="#1A4BFF" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">Final Reranked Output</text>
+<text x="740.0" y="602.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">Consolidated results after</text>
+<text x="740.0" y="628.0" fill="#0B1F3A" font-size="18" font-family="Arial, Helvetica, sans-serif">reranking.</text>
+<text x="56" y="1310" fill="#5A6B7D" font-size="16" font-family="Arial, Helvetica, sans-serif">Practical AI insights. Join the community.  aifrontiersforum.org/join</text>
+</svg>

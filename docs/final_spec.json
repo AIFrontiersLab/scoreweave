@@ -1,0 +1,38 @@
+{
+  "architecture": {
+    "subtitle": "One concept. Three AI perspectives. One tested architecture.",
+    "title": "Reranking Gateway"
+  },
+  "candidate_id": "C2",
+  "certification": "peer-reviewed by AI",
+  "certified": false,
+  "changes_made": [
+    "Provide a detailed explanation of the Reranking Gateway architecture, including components and their interactions.",
+    "Include evidence or references to support claims about the effectiveness of the reranking approach.",
+    "Clarify the implementation plan with steps on how to build and test the architecture.",
+    "Enhance the educational value by explaining the trade-offs involved in using a Reranking Gateway.",
+    "Improve communication by providing a clear and compelling LinkedIn post or summary."
+  ],
+  "headline": "Reranking Gateway architecture",
+  "implementation_plan": {},
+  "linkedin_post": "",
+  "metric": {
+    "call_type": "text",
+    "completion_tokens": 1520,
+    "cost_usd": null,
+    "latency_ms": 79344.56379106268,
+    "model": "mlx-community/Qwen3.6-27B-4bit",
+    "notes": "SharedRoute chat completion.",
+    "prompt_tokens": 538,
+    "provider": "refine",
+    "status": "ok",
+    "task": "aifa_refine"
+  },
+  "specification": {
+    "approaches": [],
+    "chosen": "Componentized pipeline",
+    "problem": "Reorder candidates using stronger relevance judgments."
+  },
+  "takeaway": "",
+  "validation_method": "External peer scores only (no self-scoring). Average of two anonymous reviews. Blockers for unsupported claims, fabricated references, critical security flaws. Model agreement alone does not certify correctness."
+}

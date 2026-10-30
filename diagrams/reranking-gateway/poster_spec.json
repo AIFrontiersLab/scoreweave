@@ -1,0 +1,73 @@
+{
+  "boxes": [
+    {
+      "detail": "Initial user query or request input.",
+      "id": "1",
+      "label": "User Request"
+    },
+    {
+      "detail": "First pass ranking using basic algorithms.",
+      "id": "2",
+      "label": "Initial Ranking"
+    },
+    {
+      "detail": "Reranking using AI model 1 with specific criteria.",
+      "id": "3",
+      "label": "AI Perspective 1"
+    },
+    {
+      "detail": "Reranking using AI model 2 with alternative criteria.",
+      "id": "4",
+      "label": "AI Perspective 2"
+    },
+    {
+      "detail": "Reranking using AI model 3 with different criteria.",
+      "id": "5",
+      "label": "AI Perspective 3"
+    },
+    {
+      "detail": "Consolidated results after reranking.",
+      "id": "6",
+      "label": "Final Reranked Output"
+    }
+  ],
+  "flows": [
+    {
+      "from": "1",
+      "label": "Submit Request",
+      "to": "2"
+    },
+    {
+      "from": "2",
+      "label": "Apply AI Model 1",
+      "to": "3"
+    },
+    {
+      "from": "2",
+      "label": "Apply AI Model 2",
+      "to": "4"
+    },
+    {
+      "from": "2",
+      "label": "Apply AI Model 3",
+      "to": "5"
+    },
+    {
+      "from": "3",
+      "label": "Contribute to Final Output",
+      "to": "6"
+    },
+    {
+      "from": "4",
+      "label": "Contribute to Final Output",
+      "to": "6"
+    },
+    {
+      "from": "5",
+      "label": "Contribute to Final Output",
+      "to": "6"
+    }
+  ],
+  "subtitle": "One concept. Three AI perspectives. One tested architecture.",
+  "title": "Reranking Gateway"
+}

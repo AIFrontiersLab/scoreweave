@@ -1,0 +1,31 @@
+flowchart LR
+  1["User Request"]
+  2["Initial Ranking"]
+  3["AI Perspective 1"]
+  4["AI Perspective 2"]
+  5["AI Perspective 3"]
+  6["Final Reranked Output"]
+  1 -->|Submit Request| 2
+  2 -->|Apply AI Model 1| 3
+  2 -->|Apply AI Model 2| 4
+  2 -->|Apply AI Model 3| 5
+  3 -->|Contribute to Final Output| 6
+  4 -->|Contribute to Final Output| 6
+  5 -->|Contribute to Final Output| 6
+
+flowchart TB
+  subgraph happy [Happy path]
+    h_1["User Request"]
+    h_2["Initial Ranking"]
+    h_3["AI Perspective 1"]
+    h_4["AI Perspective 2"]
+    h_5["AI Perspective 3"]
+    h_6["Final Reranked Output"]
+    h_1 --> h_2
+    h_2 --> h_3
+    h_3 --> h_4
+    h_4 --> h_5
+    h_5 --> h_6
+  end
+  fail["Failure / abstain"]
+  h_6 -.-> fail
